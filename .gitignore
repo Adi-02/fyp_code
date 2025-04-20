@@ -1,0 +1,11 @@
+.env
+venv/
+chroma_db/
+rag_data.db 
+market_data.db
+lstm_attention_mlp.pth
+.venv/
+add_data_to_db.py
+__pycache__/
+market_data_backup/
+eda.ipynb
